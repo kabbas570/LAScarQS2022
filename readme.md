@@ -19,3 +19,6 @@ various input spaces. Furthermore, all kernels share the same parameters at each
 not increase, and the network benefits from convolving the same kernels with varying dimensions of incoming feature maps.
 ![image](https://user-images.githubusercontent.com/56618776/187899890-97526b0a-9d1d-48e1-b24d-e41ed17aad12.png)
 
+
+# Citation Request
+To be updated .......
