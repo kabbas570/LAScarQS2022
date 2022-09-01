@@ -6,10 +6,10 @@ How run docker containers;
 
 
 
-Step-1. uplaod the docker images using.
-docker load --input team46testevaluation.tar 
+Step-1.  uplaod the docker images using.
+             docker load --input team46testevaluation.tar 
 
-step-2. docker run -v C:\My_Data\sateg0\validation\viz_tresults\TASK_1:/input:ro -v :/output:ro -ti team46testevaluation
+step-2.      docker run -v C:\My_Data\sateg0\validation\viz_tresults\TASK_1:/input:ro -v :/output:ro -ti team46testevaluation
 
 where, path to images = C:\My_Data\sateg0\validation\viz_tresults\TASK_1
 
