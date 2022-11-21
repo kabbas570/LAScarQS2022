@@ -3,6 +3,8 @@ The paper has been accepted at LAScarQS 2022: Left Atrial and Scar Quantificatio
 in conjunction with STACOM and MICCAI 2022 (Sep 18th, 2022, Singapore).
   https://zmiclab.github.io/projects/lascarqs22/submit.html
   
+  The paper is availabe at:
+  http://eecs.qmul.ac.uk/~gslabaugh/publications/Khan_MICCAIW2022.pdf
   ### Overview of propsoed-method
   
   Left atrial (LA) segmentation and quantification of atrial
