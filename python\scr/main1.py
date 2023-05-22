@@ -43,7 +43,7 @@ print(len(val_loader))
 
    ### LOAD MODELS #####
 #######################################
-from models import model1
+from models import model_Scar,Model_LA
 
 
 avg_train_losses = []   # losses of all training epochs
@@ -152,7 +152,7 @@ epoch_len = len(str(Max_Epochs))
 early_stopping = EarlyStopping(patience=5, verbose=True) 
                 
 def main():
-    model = model1().to(device=DEVICE,dtype=torch.float)
+    model = Model_LA().to(device=DEVICE,dtype=torch.float)
     loss_fn1 =FocalTverskyLoss()
     
    ########################
